@@ -1,0 +1,59 @@
+ClassId,Name,Description
+0,Speed limit (5km/h),Maximum speed allowed is 5 kilometers per hour.
+1,Speed limit (15km/h),Maximum speed allowed is 15 kilometers per hour.
+2,Speed limit (30km/h),Maximum speed allowed is 30 kilometers per hour.
+3,Speed limit (40km/h),Maximum speed allowed is 40 kilometers per hour.
+4,Speed limit (50km/h),Maximum speed allowed is 50 kilometers per hour.
+5,Speed limit (60km/h),Maximum speed allowed is 60 kilometers per hour.
+6,Speed limit (70km/h),Maximum speed allowed is 70 kilometers per hour.
+7,Speed limit (80km/h),Maximum speed allowed is 80 kilometers per hour.
+8,Dont Go straight or left,Prohibited from going straight or turning left.
+9,Dont Go straight or Right,Prohibited from going straight or turning right.
+10,Dont Go straight,Prohibited from going straight.
+11,Dont Go Left,Prohibited from turning left.
+12,Dont Go Left or Right,Prohibited from turning left or right.
+13,Dont Go Right,Prohibited from turning right.
+14,Dont overtake from Left,Overtaking from the left side is not allowed.
+15,No Uturn,U-turns are prohibited.
+16,No Car,No entry for cars.
+17,No horn,Horn usage is prohibited in this area.
+18,Speed limit (40km/h),Maximum speed allowed is 40 kilometers per hour.
+19,Speed limit (50km/h),Maximum speed allowed is 50 kilometers per hour.
+20,Go straight or right,Allowed to go straight or turn right.
+21,Go straight,Allowed to go straight.
+22,Go Left,Allowed to turn left.
+23,Go Left or right,Allowed to turn left or right.
+24,Go Right,Allowed to turn right.
+25,Keep Left,Drivers must keep left.
+26,Keep Right,Drivers must keep right.
+27,Roundabout mandatory,Entering a roundabout is mandatory.
+28,Watch out for cars,Beware of oncoming or crossing vehicles.
+29,Horn,Horn usage is allowed or recommended.
+30,Bicycles crossing,Watch out for bicycles crossing.
+31,Uturn,U-turn is allowed.
+32,Road Divider,Road divider ahead drive cautiously.
+33,Traffic signals,Traffic signals are ahead prepare to stop if necessary.
+34,Danger Ahead,Dangerous area ahead proceed with caution.
+35,Zebra Crossing,Pedestrian crossing ahead slow down.
+36,Bicycles crossing,Beware of bicycle crossing.
+37,Children crossing,Watch out for children crossing.
+38,Dangerous curve to the left,Sharp left turn ahead reduce speed.
+39,Dangerous curve to the right,Sharp right turn ahead reduce speed.
+40,Unknown1,Unidentified traffic sign.
+41,Unknown2,Unidentified traffic sign.
+42,Unknown3,Unidentified traffic sign.
+43,Go right or straight,Allowed to go straight or turn right.
+44,Go left or straight,Allowed to go straight or turn left.
+45,Unknown4,Unidentified traffic sign.
+46,ZigZag Curve,Zigzag road ahead drive carefully.
+47,Train Crossing,Railway crossing ahead look out for trains.
+48,Under Construction,Roadwork ahead drive cautiously.
+49,Unknown5,Unidentified traffic sign.
+50,Fences,Fence or barrier ahead drive with caution.
+51,Heavy Vehicle Accidents,High risk of accidents involving heavy vehicles.
+52,Unknown6,Unidentified traffic sign.
+53,Give Way,Give way to other vehicles.
+54,No stopping,Stopping is not allowed.
+55,No entry,No entry for vehicles.
+56,Unknown7,Unidentified traffic sign.
+57,Unknown8,Unidentified traffic sign.
